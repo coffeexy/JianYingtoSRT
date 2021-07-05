@@ -1,8 +1,8 @@
 # Export SRT subtitle from JianYingPro
-A simple script that helps you export your JianYingPro automate subtitle to SRT file, so you can upload the SRT to [Youtube](!https://www.youtube.com/channel/UCknOww3EjCM6kX1K36FB85g) or [BiliBili](!https://space.bilibili.com/426914310).
+A simple script that helps you export your JianYingPro automate subtitle to SRT file, so you can upload the SRT to [Youtube](https://www.youtube.com/channel/UCknOww3EjCM6kX1K36FB85g) or [BiliBili](https://space.bilibili.com/426914310).
 
 ## Getting Started
-1. Install [python3](!https://www.python.org/)
+1. Install [python3](https://www.python.org/)
 2. Run the script
 ```
 python3 index.py 
